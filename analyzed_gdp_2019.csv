@@ -1,0 +1,61 @@
+Country Name,Country Code,Year,GDP_per_capita,Region,Population,Total_GDP_Billion_USD
+Monaco,MCO,2019,193746.73,Europe & Central Asia,38109,7.38
+Liechtenstein,LIE,2019,166907.84,Europe & Central Asia,38563,6.44
+Bermuda,BMU,2019,115798.04,North America,64107,7.42
+Luxembourg,LUX,2019,112696.65,Europe & Central Asia,620001,69.87
+Cayman Islands,CYM,2019,88254.29,Latin America & Caribbean ,67327,5.94
+Isle of Man,IMN,2019,87127.55,Europe & Central Asia,83957,7.31
+Switzerland,CHE,2019,85872.97,Europe & Central Asia,8575280,736.38
+"Macao SAR, China",MAC,2019,81882.7,East Asia & Pacific,672000,55.03
+Ireland,IRL,2019,81827.67,Europe & Central Asia,4976456,407.21
+Norway,NOR,2019,79329.31,Europe & Central Asia,5347896,424.24
+Iceland,ISL,2019,69296.31,Europe & Central Asia,360563,24.99
+Qatar,QAT,2019,66841.3,"Middle East, North Africa, Afghanistan & Pakistan",2638657,176.37
+Singapore,SGP,2019,66068.7,East Asia & Pacific,5703569,376.83
+United States,USA,2019,65227.96,North America,330226227,21539.98
+Faroe Islands,FRO,2019,63070.72,Europe & Central Asia,51790,3.27
+Channel Islands,CHI,2019,60564.63,Europe & Central Asia,165639,10.03
+Denmark,DNK,2019,59404.27,Europe & Central Asia,5814422,345.4
+Australia,AUS,2019,55194.76,East Asia & Pacific,25334826,1398.35
+Netherlands,NLD,2019,53554.9,Europe & Central Asia,17344874,928.9
+Greenland,GRL,2019,53309.2,Europe & Central Asia,56225,3.0
+Sweden,SWE,2019,51648.99,Europe & Central Asia,10278887,530.89
+Austria,AUT,2019,49885.99,Europe & Central Asia,8879920,442.98
+"Hong Kong SAR, China",HKG,2019,48359.0,East Asia & Pacific,7507900,363.07
+Finland,FIN,2019,48358.18,Europe & Central Asia,5521606,267.01
+Germany,DEU,2019,47656.2,Europe & Central Asia,83092962,3959.89
+Belgium,BEL,2019,46716.62,Europe & Central Asia,11488980,536.73
+San Marino,SMR,2019,46627.0,Europe & Central Asia,34663,1.62
+Canada,CAN,2019,46352.97,North America,37618495,1743.73
+United Arab Emirates,ARE,2019,45938.61,"Middle East, North Africa, Afghanistan & Pakistan",9445785,433.93
+Israel,ISR,2019,44091.87,"Middle East, North Africa, Afghanistan & Pakistan",9054000,399.21
+United Kingdom,GBR,2019,43160.68,Europe & Central Asia,66628000,2875.71
+New Zealand,NZL,2019,42872.27,East Asia & Pacific,4970300,213.09
+Japan,JPN,2019,41424.87,East Asia & Pacific,126633000,5245.76
+Andorra,AND,2019,41257.8,Europe & Central Asia,76474,3.16
+France,FRA,2019,40408.28,Europe & Central Asia,67382061,2722.79
+Guam,GUM,2019,39274.94,East Asia & Pacific,161808,6.35
+Virgin Islands (U.S.),VIR,2019,38633.53,Latin America & Caribbean ,106669,4.12
+Sint Maarten (Dutch part),SXM,2019,34861.47,Latin America & Caribbean ,40385,1.41
+"Korea, Rep.",KOR,2019,33826.94,East Asia & Pacific,51764822,1751.05
+Italy,ITA,2019,33812.79,Europe & Central Asia,59729081,2019.61
+"Bahamas, The",BHS,2019,33640.34,Latin America & Caribbean ,394675,13.28
+New Caledonia,NCL,2019,33411.34,East Asia & Pacific,283606,9.48
+Malta,MLT,2019,32421.91,"Middle East, North Africa, Afghanistan & Pakistan",503912,16.34
+Puerto Rico (US),PRI,2019,31830.53,Latin America & Caribbean ,3302691,105.13
+Turks and Caicos Islands,TCA,2019,31780.52,Latin America & Caribbean ,43166,1.37
+Kuwait,KWT,2019,31707.87,"Middle East, North Africa, Afghanistan & Pakistan",4442316,140.86
+Aruba,ABW,2019,30654.49,Latin America & Caribbean ,109203,3.35
+Brunei Darussalam,BRN,2019,30426.57,East Asia & Pacific,442680,13.47
+Spain,ESP,2019,29786.52,Europe & Central Asia,47118501,1403.5
+Saudi Arabia,SAU,2019,29566.79,"Middle East, North Africa, Afghanistan & Pakistan",30063799,888.89
+Cyprus,CYP,2019,29227.17,Europe & Central Asia,1286671,37.61
+Bahrain,BHR,2019,27259.74,"Middle East, North Africa, Afghanistan & Pakistan",1483756,40.45
+Slovenia,SVN,2019,25814.17,Europe & Central Asia,2088385,53.91
+Northern Mariana Islands,MNP,2019,24496.67,East Asia & Pacific,48129,1.18
+Czechia,CZE,2019,24062.72,Europe & Central Asia,10671870,256.79
+Estonia,EST,2019,24021.25,Europe & Central Asia,1326898,31.87
+St. Kitts and Nevis,KNA,2019,23595.49,Latin America & Caribbean ,46952,1.11
+Portugal,PRT,2019,23343.36,Europe & Central Asia,10286263,240.12
+Barbados,BRB,2019,21929.44,Latin America & Caribbean ,281207,6.17
+French Polynesia,PYF,2019,21582.59,East Asia & Pacific,279034,6.02
